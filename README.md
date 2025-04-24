@@ -46,5 +46,6 @@ Query: Total and average review score
 
   view_category_sales – Which product categories dominate sales?
 
-
-  -
+DATASET + QUERRY
+  -<a href="https://github.com/akshya408/Ecommerce_sql_dataanalysis/blob/main/olist.sqlite">Ecomerce_sql_dataser + query</a>
+  
