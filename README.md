@@ -1,4 +1,4 @@
-#E-Commerce Data Analysis: Summary Slide
+# E-Commerce Data Analysis: Summary Slide
 1. Who Shops the Most? 👥
 Query: Top 10 customers by number of orders
   Identified the most loyal customers based on the total number of orders placed.
